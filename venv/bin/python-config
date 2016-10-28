@@ -1,4 +1,4 @@
-#!/home/staylor/django-portfolio/python-getting-started2/venv/bin/python
+#!/home/staylor/django-portfolio/venv/bin/python
 
 import sys
 import getopt
