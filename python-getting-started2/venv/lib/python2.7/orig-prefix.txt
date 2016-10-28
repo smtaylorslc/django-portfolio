@@ -1,1 +1,1 @@
-/Users/spencertaylor/anaconda
+/usr

@@ -1,1 +1,1 @@
-/Users/spencertaylor/anaconda/lib/python2.7/os.py
+/usr/lib/python2.7/os.py
